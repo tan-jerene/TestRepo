@@ -1,0 +1,2 @@
+#ignore all CVS folders and class files
+**/CVS/
